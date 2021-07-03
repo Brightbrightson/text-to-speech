@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Brightbrightson/text-to-speech.git/static/css/main.5d68d8ed.chunk.css",
-    "main.js": "/Brightbrightson/text-to-speech.git/static/js/main.990dac08.chunk.js",
-    "main.js.map": "/Brightbrightson/text-to-speech.git/static/js/main.990dac08.chunk.js.map",
-    "runtime-main.js": "/Brightbrightson/text-to-speech.git/static/js/runtime-main.da7ccc5d.js",
-    "runtime-main.js.map": "/Brightbrightson/text-to-speech.git/static/js/runtime-main.da7ccc5d.js.map",
-    "static/js/2.ab1de406.chunk.js": "/Brightbrightson/text-to-speech.git/static/js/2.ab1de406.chunk.js",
-    "static/js/2.ab1de406.chunk.js.map": "/Brightbrightson/text-to-speech.git/static/js/2.ab1de406.chunk.js.map",
-    "static/js/3.40425ec6.chunk.js": "/Brightbrightson/text-to-speech.git/static/js/3.40425ec6.chunk.js",
-    "static/js/3.40425ec6.chunk.js.map": "/Brightbrightson/text-to-speech.git/static/js/3.40425ec6.chunk.js.map",
-    "index.html": "/Brightbrightson/text-to-speech.git/index.html",
-    "static/css/main.5d68d8ed.chunk.css.map": "/Brightbrightson/text-to-speech.git/static/css/main.5d68d8ed.chunk.css.map",
-    "static/js/2.ab1de406.chunk.js.LICENSE.txt": "/Brightbrightson/text-to-speech.git/static/js/2.ab1de406.chunk.js.LICENSE.txt"
+    "main.css": "/text-to-speech/static/css/main.5d68d8ed.chunk.css",
+    "main.js": "/text-to-speech/static/js/main.990dac08.chunk.js",
+    "main.js.map": "/text-to-speech/static/js/main.990dac08.chunk.js.map",
+    "runtime-main.js": "/text-to-speech/static/js/runtime-main.8c995561.js",
+    "runtime-main.js.map": "/text-to-speech/static/js/runtime-main.8c995561.js.map",
+    "static/js/2.ab1de406.chunk.js": "/text-to-speech/static/js/2.ab1de406.chunk.js",
+    "static/js/2.ab1de406.chunk.js.map": "/text-to-speech/static/js/2.ab1de406.chunk.js.map",
+    "static/js/3.40425ec6.chunk.js": "/text-to-speech/static/js/3.40425ec6.chunk.js",
+    "static/js/3.40425ec6.chunk.js.map": "/text-to-speech/static/js/3.40425ec6.chunk.js.map",
+    "index.html": "/text-to-speech/index.html",
+    "static/css/main.5d68d8ed.chunk.css.map": "/text-to-speech/static/css/main.5d68d8ed.chunk.css.map",
+    "static/js/2.ab1de406.chunk.js.LICENSE.txt": "/text-to-speech/static/js/2.ab1de406.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.da7ccc5d.js",
+    "static/js/runtime-main.8c995561.js",
     "static/js/2.ab1de406.chunk.js",
     "static/css/main.5d68d8ed.chunk.css",
     "static/js/main.990dac08.chunk.js"
